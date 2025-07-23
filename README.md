@@ -31,7 +31,7 @@
       />
     </td>
   </tr>
-</table
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=magnisoft-devtwo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
