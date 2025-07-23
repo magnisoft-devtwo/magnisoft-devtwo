@@ -12,6 +12,27 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=magnisoft-devtwo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magnisoft-devtwo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=magnisoft-devtwo&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnisoft-devtwo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=magnisoft-devtwo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
